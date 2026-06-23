@@ -1,0 +1,46 @@
+Course: Machine Learning Fundamentals
+
+
+Module 1: Introduction to Machine Learning
+
+
+Machine Learning is a branch of Artificial Intelligence that allows computers to learn patterns from data.
+
+
+Types of Machine Learning:
+
+
+1. Supervised Learning
+
+Supervised learning uses labeled datasets.
+Examples:
+- Classification
+- Regression
+
+
+2. Unsupervised Learning
+
+Unsupervised learning finds hidden patterns in data without labels.
+Examples:
+- Clustering
+
+
+3. Reinforcement Learning
+
+The model learns through rewards and penalties.
+
+
+Applications:
+
+- Recommendation systems
+- Fraud detection
+- Image recognition
+- Predictive analytics
+
+
+Business Applications:
+
+Machine learning helps companies analyze customer behavior,
+predict sales, and automate decision making.
+
+

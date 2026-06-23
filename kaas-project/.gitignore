@@ -1,0 +1,27 @@
+# Environment
+.env
+env/
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Models / Vector DB
+*.bin
+*.pkl
+*.faiss
+
+# Dataset
+data/datasets/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
