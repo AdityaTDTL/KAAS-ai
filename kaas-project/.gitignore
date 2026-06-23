@@ -1,4 +1,4 @@
-# Environment
+# Environment files
 .env
 env/
 *.env
@@ -7,9 +7,9 @@ env/
 __pycache__/
 *.pyc
 
-# Virtual Environment
+# Virtual environment
 venv/
-env/
+.venv/
 
 # Models / Vector DB
 *.bin
