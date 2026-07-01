@@ -1,0 +1,33 @@
+{
+  "dataset_name": "KaaS Synthetic Demo Dataset",
+  "generated_at": "2026-05-13T11:35:32.374304",
+  "record_counts": {
+    "enterprises": 500,
+    "skills": 500,
+    "users": 50000,
+    "courses": 50000,
+    "enrollments": 100000,
+    "assessments": 25000,
+    "certificates": 35000,
+    "gamification": 50000,
+    "social_posts": 30000,
+    "forum_threads": 15000,
+    "training_batches": 5000,
+    "ai_tutor_sessions": 50000
+  },
+  "core_scale_note": "Includes 50,000 users and 50,000 courses, plus additional linked platform activity records.",
+  "relationships": {
+    "users.enterprise_id": "enterprises.enterprise_id",
+    "courses.trainer_id": "users.user_id",
+    "enrollments.user_id": "users.user_id",
+    "enrollments.course_id": "courses.course_id",
+    "assessments.course_id": "courses.course_id",
+    "certificates.user_id": "users.user_id",
+    "certificates.course_id": "courses.course_id",
+    "gamification.user_id": "users.user_id",
+    "social_posts.user_id": "users.user_id",
+    "forum_threads.course_id": "courses.course_id",
+    "training_batches.enterprise_id": "enterprises.enterprise_id",
+    "ai_tutor_sessions.user_id": "users.user_id"
+  }
+}

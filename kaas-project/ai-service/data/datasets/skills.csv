@@ -1,0 +1,501 @@
+skill_id,skill_name,domain,skill_level,description,market_demand_score,ai_recommendation_weight
+SKL00001,Governance Skill 1,Governance,Intermediate,"Competency in Governance Skill 1 for practical, enterprise-ready outcomes.",78,0.901
+SKL00002,Cloud Skill 2,Cloud,Beginner,"Competency in Cloud Skill 2 for practical, enterprise-ready outcomes.",46,0.398
+SKL00003,Cybersecurity Skill 3,Cybersecurity,Expert,"Competency in Cybersecurity Skill 3 for practical, enterprise-ready outcomes.",84,0.599
+SKL00004,Project Management Skill 4,Project Management,Advanced,"Competency in Project Management Skill 4 for practical, enterprise-ready outcomes.",82,0.353
+SKL00005,Cybersecurity Skill 5,Cybersecurity,Beginner,"Competency in Cybersecurity Skill 5 for practical, enterprise-ready outcomes.",43,0.454
+SKL00006,Healthcare Skill 6,Healthcare,Expert,"Competency in Healthcare Skill 6 for practical, enterprise-ready outcomes.",49,0.149
+SKL00007,AI Skill 7,AI,Expert,"Competency in AI Skill 7 for practical, enterprise-ready outcomes.",45,0.365
+SKL00008,Governance Skill 8,Governance,Expert,"Competency in Governance Skill 8 for practical, enterprise-ready outcomes.",52,0.187
+SKL00009,Cybersecurity Skill 9,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 9 for practical, enterprise-ready outcomes.",80,0.363
+SKL00010,Data Science Skill 10,Data Science,Expert,"Competency in Data Science Skill 10 for practical, enterprise-ready outcomes.",94,0.204
+SKL00011,Sales Skill 11,Sales,Expert,"Competency in Sales Skill 11 for practical, enterprise-ready outcomes.",70,0.54
+SKL00012,Governance Skill 12,Governance,Advanced,"Competency in Governance Skill 12 for practical, enterprise-ready outcomes.",45,0.678
+SKL00013,Leadership Skill 13,Leadership,Intermediate,"Competency in Leadership Skill 13 for practical, enterprise-ready outcomes.",63,0.897
+SKL00014,Full Stack Skill 14,Full Stack,Intermediate,"Competency in Full Stack Skill 14 for practical, enterprise-ready outcomes.",68,0.14
+SKL00015,Finance Skill 15,Finance,Expert,"Competency in Finance Skill 15 for practical, enterprise-ready outcomes.",56,0.304
+SKL00016,Digital Marketing Skill 16,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 16 for practical, enterprise-ready outcomes.",49,0.777
+SKL00017,Governance Skill 17,Governance,Beginner,"Competency in Governance Skill 17 for practical, enterprise-ready outcomes.",45,0.701
+SKL00018,Sales Skill 18,Sales,Expert,"Competency in Sales Skill 18 for practical, enterprise-ready outcomes.",88,0.631
+SKL00019,Healthcare Skill 19,Healthcare,Beginner,"Competency in Healthcare Skill 19 for practical, enterprise-ready outcomes.",93,0.448
+SKL00020,Healthcare Skill 20,Healthcare,Expert,"Competency in Healthcare Skill 20 for practical, enterprise-ready outcomes.",74,0.718
+SKL00021,Project Management Skill 21,Project Management,Expert,"Competency in Project Management Skill 21 for practical, enterprise-ready outcomes.",76,0.893
+SKL00022,Finance Skill 22,Finance,Advanced,"Competency in Finance Skill 22 for practical, enterprise-ready outcomes.",45,0.455
+SKL00023,Quality Management Skill 23,Quality Management,Beginner,"Competency in Quality Management Skill 23 for practical, enterprise-ready outcomes.",72,0.614
+SKL00024,Healthcare Skill 24,Healthcare,Intermediate,"Competency in Healthcare Skill 24 for practical, enterprise-ready outcomes.",47,0.954
+SKL00025,Finance Skill 25,Finance,Intermediate,"Competency in Finance Skill 25 for practical, enterprise-ready outcomes.",100,0.986
+SKL00026,Cybersecurity Skill 26,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 26 for practical, enterprise-ready outcomes.",48,0.138
+SKL00027,Data Science Skill 27,Data Science,Expert,"Competency in Data Science Skill 27 for practical, enterprise-ready outcomes.",52,0.998
+SKL00028,Governance Skill 28,Governance,Intermediate,"Competency in Governance Skill 28 for practical, enterprise-ready outcomes.",93,0.636
+SKL00029,Full Stack Skill 29,Full Stack,Beginner,"Competency in Full Stack Skill 29 for practical, enterprise-ready outcomes.",45,0.449
+SKL00030,Leadership Skill 30,Leadership,Advanced,"Competency in Leadership Skill 30 for practical, enterprise-ready outcomes.",94,0.349
+SKL00031,Finance Skill 31,Finance,Beginner,"Competency in Finance Skill 31 for practical, enterprise-ready outcomes.",90,0.73
+SKL00032,Manufacturing Skill 32,Manufacturing,Expert,"Competency in Manufacturing Skill 32 for practical, enterprise-ready outcomes.",47,0.473
+SKL00033,Cloud Skill 33,Cloud,Beginner,"Competency in Cloud Skill 33 for practical, enterprise-ready outcomes.",99,0.195
+SKL00034,Sales Skill 34,Sales,Beginner,"Competency in Sales Skill 34 for practical, enterprise-ready outcomes.",90,0.357
+SKL00035,Healthcare Skill 35,Healthcare,Advanced,"Competency in Healthcare Skill 35 for practical, enterprise-ready outcomes.",96,0.47
+SKL00036,Leadership Skill 36,Leadership,Expert,"Competency in Leadership Skill 36 for practical, enterprise-ready outcomes.",76,0.648
+SKL00037,AI Skill 37,AI,Intermediate,"Competency in AI Skill 37 for practical, enterprise-ready outcomes.",57,0.463
+SKL00038,Manufacturing Skill 38,Manufacturing,Expert,"Competency in Manufacturing Skill 38 for practical, enterprise-ready outcomes.",42,0.456
+SKL00039,Project Management Skill 39,Project Management,Advanced,"Competency in Project Management Skill 39 for practical, enterprise-ready outcomes.",84,0.314
+SKL00040,HR Skill 40,HR,Expert,"Competency in HR Skill 40 for practical, enterprise-ready outcomes.",98,0.342
+SKL00041,Full Stack Skill 41,Full Stack,Beginner,"Competency in Full Stack Skill 41 for practical, enterprise-ready outcomes.",61,0.836
+SKL00042,Digital Marketing Skill 42,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 42 for practical, enterprise-ready outcomes.",57,0.859
+SKL00043,Quality Management Skill 43,Quality Management,Beginner,"Competency in Quality Management Skill 43 for practical, enterprise-ready outcomes.",95,0.305
+SKL00044,Digital Marketing Skill 44,Digital Marketing,Expert,"Competency in Digital Marketing Skill 44 for practical, enterprise-ready outcomes.",89,0.843
+SKL00045,Digital Marketing Skill 45,Digital Marketing,Expert,"Competency in Digital Marketing Skill 45 for practical, enterprise-ready outcomes.",78,0.681
+SKL00046,Cybersecurity Skill 46,Cybersecurity,Expert,"Competency in Cybersecurity Skill 46 for practical, enterprise-ready outcomes.",53,0.922
+SKL00047,Leadership Skill 47,Leadership,Expert,"Competency in Leadership Skill 47 for practical, enterprise-ready outcomes.",88,0.565
+SKL00048,Full Stack Skill 48,Full Stack,Beginner,"Competency in Full Stack Skill 48 for practical, enterprise-ready outcomes.",72,0.812
+SKL00049,Data Science Skill 49,Data Science,Advanced,"Competency in Data Science Skill 49 for practical, enterprise-ready outcomes.",85,0.556
+SKL00050,Cloud Skill 50,Cloud,Beginner,"Competency in Cloud Skill 50 for practical, enterprise-ready outcomes.",51,0.273
+SKL00051,Quality Management Skill 51,Quality Management,Intermediate,"Competency in Quality Management Skill 51 for practical, enterprise-ready outcomes.",93,0.152
+SKL00052,AI Skill 52,AI,Expert,"Competency in AI Skill 52 for practical, enterprise-ready outcomes.",43,0.926
+SKL00053,HR Skill 53,HR,Intermediate,"Competency in HR Skill 53 for practical, enterprise-ready outcomes.",57,0.432
+SKL00054,Finance Skill 54,Finance,Expert,"Competency in Finance Skill 54 for practical, enterprise-ready outcomes.",80,0.931
+SKL00055,Governance Skill 55,Governance,Beginner,"Competency in Governance Skill 55 for practical, enterprise-ready outcomes.",55,0.435
+SKL00056,Manufacturing Skill 56,Manufacturing,Expert,"Competency in Manufacturing Skill 56 for practical, enterprise-ready outcomes.",51,0.964
+SKL00057,Finance Skill 57,Finance,Advanced,"Competency in Finance Skill 57 for practical, enterprise-ready outcomes.",62,0.247
+SKL00058,Project Management Skill 58,Project Management,Advanced,"Competency in Project Management Skill 58 for practical, enterprise-ready outcomes.",87,0.848
+SKL00059,Data Science Skill 59,Data Science,Advanced,"Competency in Data Science Skill 59 for practical, enterprise-ready outcomes.",41,0.448
+SKL00060,Cloud Skill 60,Cloud,Intermediate,"Competency in Cloud Skill 60 for practical, enterprise-ready outcomes.",94,0.299
+SKL00061,Cybersecurity Skill 61,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 61 for practical, enterprise-ready outcomes.",57,0.686
+SKL00062,Healthcare Skill 62,Healthcare,Beginner,"Competency in Healthcare Skill 62 for practical, enterprise-ready outcomes.",95,0.802
+SKL00063,Sales Skill 63,Sales,Beginner,"Competency in Sales Skill 63 for practical, enterprise-ready outcomes.",70,0.92
+SKL00064,Governance Skill 64,Governance,Intermediate,"Competency in Governance Skill 64 for practical, enterprise-ready outcomes.",78,0.821
+SKL00065,Cybersecurity Skill 65,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 65 for practical, enterprise-ready outcomes.",78,0.825
+SKL00066,Digital Marketing Skill 66,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 66 for practical, enterprise-ready outcomes.",67,0.906
+SKL00067,Quality Management Skill 67,Quality Management,Advanced,"Competency in Quality Management Skill 67 for practical, enterprise-ready outcomes.",69,0.327
+SKL00068,Finance Skill 68,Finance,Advanced,"Competency in Finance Skill 68 for practical, enterprise-ready outcomes.",83,0.569
+SKL00069,Manufacturing Skill 69,Manufacturing,Expert,"Competency in Manufacturing Skill 69 for practical, enterprise-ready outcomes.",77,0.192
+SKL00070,Healthcare Skill 70,Healthcare,Advanced,"Competency in Healthcare Skill 70 for practical, enterprise-ready outcomes.",75,0.683
+SKL00071,Manufacturing Skill 71,Manufacturing,Advanced,"Competency in Manufacturing Skill 71 for practical, enterprise-ready outcomes.",59,0.716
+SKL00072,Finance Skill 72,Finance,Beginner,"Competency in Finance Skill 72 for practical, enterprise-ready outcomes.",61,0.99
+SKL00073,Governance Skill 73,Governance,Advanced,"Competency in Governance Skill 73 for practical, enterprise-ready outcomes.",95,0.349
+SKL00074,Governance Skill 74,Governance,Advanced,"Competency in Governance Skill 74 for practical, enterprise-ready outcomes.",52,0.235
+SKL00075,Sales Skill 75,Sales,Intermediate,"Competency in Sales Skill 75 for practical, enterprise-ready outcomes.",97,0.151
+SKL00076,Quality Management Skill 76,Quality Management,Expert,"Competency in Quality Management Skill 76 for practical, enterprise-ready outcomes.",82,0.388
+SKL00077,Cloud Skill 77,Cloud,Beginner,"Competency in Cloud Skill 77 for practical, enterprise-ready outcomes.",81,0.548
+SKL00078,Digital Marketing Skill 78,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 78 for practical, enterprise-ready outcomes.",98,0.477
+SKL00079,Leadership Skill 79,Leadership,Beginner,"Competency in Leadership Skill 79 for practical, enterprise-ready outcomes.",77,0.737
+SKL00080,Manufacturing Skill 80,Manufacturing,Intermediate,"Competency in Manufacturing Skill 80 for practical, enterprise-ready outcomes.",61,0.754
+SKL00081,Cybersecurity Skill 81,Cybersecurity,Expert,"Competency in Cybersecurity Skill 81 for practical, enterprise-ready outcomes.",98,0.947
+SKL00082,Full Stack Skill 82,Full Stack,Advanced,"Competency in Full Stack Skill 82 for practical, enterprise-ready outcomes.",94,0.253
+SKL00083,Governance Skill 83,Governance,Intermediate,"Competency in Governance Skill 83 for practical, enterprise-ready outcomes.",58,0.188
+SKL00084,Cloud Skill 84,Cloud,Advanced,"Competency in Cloud Skill 84 for practical, enterprise-ready outcomes.",86,0.828
+SKL00085,Sales Skill 85,Sales,Intermediate,"Competency in Sales Skill 85 for practical, enterprise-ready outcomes.",100,0.712
+SKL00086,Full Stack Skill 86,Full Stack,Beginner,"Competency in Full Stack Skill 86 for practical, enterprise-ready outcomes.",54,0.42
+SKL00087,HR Skill 87,HR,Advanced,"Competency in HR Skill 87 for practical, enterprise-ready outcomes.",66,0.809
+SKL00088,Full Stack Skill 88,Full Stack,Advanced,"Competency in Full Stack Skill 88 for practical, enterprise-ready outcomes.",56,0.627
+SKL00089,Finance Skill 89,Finance,Beginner,"Competency in Finance Skill 89 for practical, enterprise-ready outcomes.",70,0.148
+SKL00090,Governance Skill 90,Governance,Beginner,"Competency in Governance Skill 90 for practical, enterprise-ready outcomes.",70,0.9
+SKL00091,Healthcare Skill 91,Healthcare,Beginner,"Competency in Healthcare Skill 91 for practical, enterprise-ready outcomes.",95,0.713
+SKL00092,Healthcare Skill 92,Healthcare,Advanced,"Competency in Healthcare Skill 92 for practical, enterprise-ready outcomes.",66,0.149
+SKL00093,Quality Management Skill 93,Quality Management,Intermediate,"Competency in Quality Management Skill 93 for practical, enterprise-ready outcomes.",48,0.993
+SKL00094,Full Stack Skill 94,Full Stack,Expert,"Competency in Full Stack Skill 94 for practical, enterprise-ready outcomes.",76,0.904
+SKL00095,Finance Skill 95,Finance,Intermediate,"Competency in Finance Skill 95 for practical, enterprise-ready outcomes.",60,0.876
+SKL00096,Cloud Skill 96,Cloud,Beginner,"Competency in Cloud Skill 96 for practical, enterprise-ready outcomes.",71,0.399
+SKL00097,Cloud Skill 97,Cloud,Advanced,"Competency in Cloud Skill 97 for practical, enterprise-ready outcomes.",80,0.152
+SKL00098,Finance Skill 98,Finance,Advanced,"Competency in Finance Skill 98 for practical, enterprise-ready outcomes.",53,0.785
+SKL00099,Cloud Skill 99,Cloud,Intermediate,"Competency in Cloud Skill 99 for practical, enterprise-ready outcomes.",71,0.807
+SKL00100,Sales Skill 100,Sales,Beginner,"Competency in Sales Skill 100 for practical, enterprise-ready outcomes.",48,0.653
+SKL00101,Governance Skill 101,Governance,Expert,"Competency in Governance Skill 101 for practical, enterprise-ready outcomes.",65,0.486
+SKL00102,Finance Skill 102,Finance,Expert,"Competency in Finance Skill 102 for practical, enterprise-ready outcomes.",40,0.134
+SKL00103,Cybersecurity Skill 103,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 103 for practical, enterprise-ready outcomes.",100,0.113
+SKL00104,Full Stack Skill 104,Full Stack,Intermediate,"Competency in Full Stack Skill 104 for practical, enterprise-ready outcomes.",41,0.709
+SKL00105,Governance Skill 105,Governance,Intermediate,"Competency in Governance Skill 105 for practical, enterprise-ready outcomes.",54,0.724
+SKL00106,Full Stack Skill 106,Full Stack,Advanced,"Competency in Full Stack Skill 106 for practical, enterprise-ready outcomes.",48,0.192
+SKL00107,Healthcare Skill 107,Healthcare,Advanced,"Competency in Healthcare Skill 107 for practical, enterprise-ready outcomes.",50,0.159
+SKL00108,AI Skill 108,AI,Advanced,"Competency in AI Skill 108 for practical, enterprise-ready outcomes.",100,0.362
+SKL00109,HR Skill 109,HR,Advanced,"Competency in HR Skill 109 for practical, enterprise-ready outcomes.",67,0.899
+SKL00110,Cloud Skill 110,Cloud,Advanced,"Competency in Cloud Skill 110 for practical, enterprise-ready outcomes.",97,0.541
+SKL00111,Sales Skill 111,Sales,Intermediate,"Competency in Sales Skill 111 for practical, enterprise-ready outcomes.",50,0.953
+SKL00112,Project Management Skill 112,Project Management,Expert,"Competency in Project Management Skill 112 for practical, enterprise-ready outcomes.",41,0.306
+SKL00113,HR Skill 113,HR,Intermediate,"Competency in HR Skill 113 for practical, enterprise-ready outcomes.",53,0.761
+SKL00114,Manufacturing Skill 114,Manufacturing,Intermediate,"Competency in Manufacturing Skill 114 for practical, enterprise-ready outcomes.",47,0.43
+SKL00115,Governance Skill 115,Governance,Beginner,"Competency in Governance Skill 115 for practical, enterprise-ready outcomes.",64,0.889
+SKL00116,Digital Marketing Skill 116,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 116 for practical, enterprise-ready outcomes.",78,0.995
+SKL00117,Governance Skill 117,Governance,Beginner,"Competency in Governance Skill 117 for practical, enterprise-ready outcomes.",81,0.853
+SKL00118,AI Skill 118,AI,Beginner,"Competency in AI Skill 118 for practical, enterprise-ready outcomes.",66,0.5
+SKL00119,Data Science Skill 119,Data Science,Advanced,"Competency in Data Science Skill 119 for practical, enterprise-ready outcomes.",70,0.732
+SKL00120,Cybersecurity Skill 120,Cybersecurity,Beginner,"Competency in Cybersecurity Skill 120 for practical, enterprise-ready outcomes.",59,0.479
+SKL00121,Data Science Skill 121,Data Science,Advanced,"Competency in Data Science Skill 121 for practical, enterprise-ready outcomes.",79,0.645
+SKL00122,Cloud Skill 122,Cloud,Expert,"Competency in Cloud Skill 122 for practical, enterprise-ready outcomes.",93,0.909
+SKL00123,Healthcare Skill 123,Healthcare,Beginner,"Competency in Healthcare Skill 123 for practical, enterprise-ready outcomes.",58,0.203
+SKL00124,Data Science Skill 124,Data Science,Expert,"Competency in Data Science Skill 124 for practical, enterprise-ready outcomes.",52,0.648
+SKL00125,Sales Skill 125,Sales,Advanced,"Competency in Sales Skill 125 for practical, enterprise-ready outcomes.",93,0.571
+SKL00126,Cybersecurity Skill 126,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 126 for practical, enterprise-ready outcomes.",85,0.469
+SKL00127,Cloud Skill 127,Cloud,Beginner,"Competency in Cloud Skill 127 for practical, enterprise-ready outcomes.",75,0.547
+SKL00128,Cybersecurity Skill 128,Cybersecurity,Expert,"Competency in Cybersecurity Skill 128 for practical, enterprise-ready outcomes.",61,0.311
+SKL00129,AI Skill 129,AI,Beginner,"Competency in AI Skill 129 for practical, enterprise-ready outcomes.",98,0.199
+SKL00130,Manufacturing Skill 130,Manufacturing,Expert,"Competency in Manufacturing Skill 130 for practical, enterprise-ready outcomes.",49,0.955
+SKL00131,Sales Skill 131,Sales,Beginner,"Competency in Sales Skill 131 for practical, enterprise-ready outcomes.",86,0.751
+SKL00132,Project Management Skill 132,Project Management,Advanced,"Competency in Project Management Skill 132 for practical, enterprise-ready outcomes.",81,0.308
+SKL00133,Digital Marketing Skill 133,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 133 for practical, enterprise-ready outcomes.",69,0.145
+SKL00134,Quality Management Skill 134,Quality Management,Intermediate,"Competency in Quality Management Skill 134 for practical, enterprise-ready outcomes.",95,0.136
+SKL00135,Digital Marketing Skill 135,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 135 for practical, enterprise-ready outcomes.",91,0.709
+SKL00136,Leadership Skill 136,Leadership,Beginner,"Competency in Leadership Skill 136 for practical, enterprise-ready outcomes.",46,0.866
+SKL00137,Project Management Skill 137,Project Management,Beginner,"Competency in Project Management Skill 137 for practical, enterprise-ready outcomes.",40,0.867
+SKL00138,Governance Skill 138,Governance,Intermediate,"Competency in Governance Skill 138 for practical, enterprise-ready outcomes.",61,0.422
+SKL00139,Finance Skill 139,Finance,Advanced,"Competency in Finance Skill 139 for practical, enterprise-ready outcomes.",96,0.76
+SKL00140,Full Stack Skill 140,Full Stack,Advanced,"Competency in Full Stack Skill 140 for practical, enterprise-ready outcomes.",51,0.202
+SKL00141,Leadership Skill 141,Leadership,Expert,"Competency in Leadership Skill 141 for practical, enterprise-ready outcomes.",57,0.852
+SKL00142,HR Skill 142,HR,Expert,"Competency in HR Skill 142 for practical, enterprise-ready outcomes.",91,0.48
+SKL00143,Project Management Skill 143,Project Management,Intermediate,"Competency in Project Management Skill 143 for practical, enterprise-ready outcomes.",47,0.219
+SKL00144,HR Skill 144,HR,Beginner,"Competency in HR Skill 144 for practical, enterprise-ready outcomes.",100,0.86
+SKL00145,Data Science Skill 145,Data Science,Expert,"Competency in Data Science Skill 145 for practical, enterprise-ready outcomes.",98,0.632
+SKL00146,Sales Skill 146,Sales,Expert,"Competency in Sales Skill 146 for practical, enterprise-ready outcomes.",51,0.65
+SKL00147,Sales Skill 147,Sales,Advanced,"Competency in Sales Skill 147 for practical, enterprise-ready outcomes.",79,0.126
+SKL00148,Governance Skill 148,Governance,Intermediate,"Competency in Governance Skill 148 for practical, enterprise-ready outcomes.",70,0.928
+SKL00149,Data Science Skill 149,Data Science,Expert,"Competency in Data Science Skill 149 for practical, enterprise-ready outcomes.",68,0.141
+SKL00150,Digital Marketing Skill 150,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 150 for practical, enterprise-ready outcomes.",40,0.734
+SKL00151,Governance Skill 151,Governance,Intermediate,"Competency in Governance Skill 151 for practical, enterprise-ready outcomes.",82,0.886
+SKL00152,Healthcare Skill 152,Healthcare,Beginner,"Competency in Healthcare Skill 152 for practical, enterprise-ready outcomes.",67,0.696
+SKL00153,Cybersecurity Skill 153,Cybersecurity,Expert,"Competency in Cybersecurity Skill 153 for practical, enterprise-ready outcomes.",62,0.697
+SKL00154,Governance Skill 154,Governance,Expert,"Competency in Governance Skill 154 for practical, enterprise-ready outcomes.",49,0.855
+SKL00155,Healthcare Skill 155,Healthcare,Beginner,"Competency in Healthcare Skill 155 for practical, enterprise-ready outcomes.",40,0.679
+SKL00156,Cloud Skill 156,Cloud,Expert,"Competency in Cloud Skill 156 for practical, enterprise-ready outcomes.",94,0.546
+SKL00157,Cloud Skill 157,Cloud,Beginner,"Competency in Cloud Skill 157 for practical, enterprise-ready outcomes.",88,0.542
+SKL00158,Cybersecurity Skill 158,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 158 for practical, enterprise-ready outcomes.",57,0.145
+SKL00159,Cybersecurity Skill 159,Cybersecurity,Expert,"Competency in Cybersecurity Skill 159 for practical, enterprise-ready outcomes.",65,0.835
+SKL00160,Data Science Skill 160,Data Science,Expert,"Competency in Data Science Skill 160 for practical, enterprise-ready outcomes.",68,0.821
+SKL00161,Finance Skill 161,Finance,Beginner,"Competency in Finance Skill 161 for practical, enterprise-ready outcomes.",94,0.549
+SKL00162,Full Stack Skill 162,Full Stack,Beginner,"Competency in Full Stack Skill 162 for practical, enterprise-ready outcomes.",71,0.771
+SKL00163,AI Skill 163,AI,Beginner,"Competency in AI Skill 163 for practical, enterprise-ready outcomes.",65,0.471
+SKL00164,Healthcare Skill 164,Healthcare,Beginner,"Competency in Healthcare Skill 164 for practical, enterprise-ready outcomes.",92,0.182
+SKL00165,Manufacturing Skill 165,Manufacturing,Advanced,"Competency in Manufacturing Skill 165 for practical, enterprise-ready outcomes.",96,0.558
+SKL00166,Cybersecurity Skill 166,Cybersecurity,Expert,"Competency in Cybersecurity Skill 166 for practical, enterprise-ready outcomes.",100,0.407
+SKL00167,Quality Management Skill 167,Quality Management,Beginner,"Competency in Quality Management Skill 167 for practical, enterprise-ready outcomes.",92,0.301
+SKL00168,Finance Skill 168,Finance,Advanced,"Competency in Finance Skill 168 for practical, enterprise-ready outcomes.",75,0.791
+SKL00169,Manufacturing Skill 169,Manufacturing,Expert,"Competency in Manufacturing Skill 169 for practical, enterprise-ready outcomes.",85,0.691
+SKL00170,HR Skill 170,HR,Expert,"Competency in HR Skill 170 for practical, enterprise-ready outcomes.",47,0.188
+SKL00171,Governance Skill 171,Governance,Intermediate,"Competency in Governance Skill 171 for practical, enterprise-ready outcomes.",40,0.407
+SKL00172,Quality Management Skill 172,Quality Management,Advanced,"Competency in Quality Management Skill 172 for practical, enterprise-ready outcomes.",75,0.57
+SKL00173,HR Skill 173,HR,Beginner,"Competency in HR Skill 173 for practical, enterprise-ready outcomes.",42,0.907
+SKL00174,Finance Skill 174,Finance,Intermediate,"Competency in Finance Skill 174 for practical, enterprise-ready outcomes.",92,0.745
+SKL00175,HR Skill 175,HR,Expert,"Competency in HR Skill 175 for practical, enterprise-ready outcomes.",46,0.329
+SKL00176,Cybersecurity Skill 176,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 176 for practical, enterprise-ready outcomes.",47,0.937
+SKL00177,Leadership Skill 177,Leadership,Intermediate,"Competency in Leadership Skill 177 for practical, enterprise-ready outcomes.",69,0.842
+SKL00178,Cybersecurity Skill 178,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 178 for practical, enterprise-ready outcomes.",46,0.781
+SKL00179,AI Skill 179,AI,Beginner,"Competency in AI Skill 179 for practical, enterprise-ready outcomes.",89,0.903
+SKL00180,Finance Skill 180,Finance,Intermediate,"Competency in Finance Skill 180 for practical, enterprise-ready outcomes.",71,0.104
+SKL00181,HR Skill 181,HR,Beginner,"Competency in HR Skill 181 for practical, enterprise-ready outcomes.",75,0.942
+SKL00182,Quality Management Skill 182,Quality Management,Expert,"Competency in Quality Management Skill 182 for practical, enterprise-ready outcomes.",99,0.557
+SKL00183,Project Management Skill 183,Project Management,Intermediate,"Competency in Project Management Skill 183 for practical, enterprise-ready outcomes.",84,0.621
+SKL00184,HR Skill 184,HR,Intermediate,"Competency in HR Skill 184 for practical, enterprise-ready outcomes.",46,0.449
+SKL00185,Manufacturing Skill 185,Manufacturing,Advanced,"Competency in Manufacturing Skill 185 for practical, enterprise-ready outcomes.",72,0.893
+SKL00186,Leadership Skill 186,Leadership,Intermediate,"Competency in Leadership Skill 186 for practical, enterprise-ready outcomes.",57,0.458
+SKL00187,Full Stack Skill 187,Full Stack,Advanced,"Competency in Full Stack Skill 187 for practical, enterprise-ready outcomes.",68,0.824
+SKL00188,Cloud Skill 188,Cloud,Expert,"Competency in Cloud Skill 188 for practical, enterprise-ready outcomes.",78,0.73
+SKL00189,HR Skill 189,HR,Advanced,"Competency in HR Skill 189 for practical, enterprise-ready outcomes.",93,0.731
+SKL00190,Quality Management Skill 190,Quality Management,Advanced,"Competency in Quality Management Skill 190 for practical, enterprise-ready outcomes.",85,0.763
+SKL00191,Healthcare Skill 191,Healthcare,Intermediate,"Competency in Healthcare Skill 191 for practical, enterprise-ready outcomes.",52,0.289
+SKL00192,HR Skill 192,HR,Advanced,"Competency in HR Skill 192 for practical, enterprise-ready outcomes.",83,0.411
+SKL00193,Governance Skill 193,Governance,Intermediate,"Competency in Governance Skill 193 for practical, enterprise-ready outcomes.",85,0.685
+SKL00194,Cloud Skill 194,Cloud,Advanced,"Competency in Cloud Skill 194 for practical, enterprise-ready outcomes.",85,0.204
+SKL00195,Full Stack Skill 195,Full Stack,Expert,"Competency in Full Stack Skill 195 for practical, enterprise-ready outcomes.",77,0.614
+SKL00196,Governance Skill 196,Governance,Expert,"Competency in Governance Skill 196 for practical, enterprise-ready outcomes.",83,0.773
+SKL00197,Quality Management Skill 197,Quality Management,Advanced,"Competency in Quality Management Skill 197 for practical, enterprise-ready outcomes.",96,0.863
+SKL00198,Sales Skill 198,Sales,Beginner,"Competency in Sales Skill 198 for practical, enterprise-ready outcomes.",73,0.196
+SKL00199,Leadership Skill 199,Leadership,Intermediate,"Competency in Leadership Skill 199 for practical, enterprise-ready outcomes.",43,0.703
+SKL00200,Cybersecurity Skill 200,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 200 for practical, enterprise-ready outcomes.",88,0.807
+SKL00201,Digital Marketing Skill 201,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 201 for practical, enterprise-ready outcomes.",49,0.855
+SKL00202,HR Skill 202,HR,Advanced,"Competency in HR Skill 202 for practical, enterprise-ready outcomes.",53,0.778
+SKL00203,AI Skill 203,AI,Advanced,"Competency in AI Skill 203 for practical, enterprise-ready outcomes.",92,0.507
+SKL00204,Manufacturing Skill 204,Manufacturing,Intermediate,"Competency in Manufacturing Skill 204 for practical, enterprise-ready outcomes.",87,0.682
+SKL00205,Leadership Skill 205,Leadership,Intermediate,"Competency in Leadership Skill 205 for practical, enterprise-ready outcomes.",72,0.806
+SKL00206,Sales Skill 206,Sales,Advanced,"Competency in Sales Skill 206 for practical, enterprise-ready outcomes.",84,0.698
+SKL00207,Project Management Skill 207,Project Management,Expert,"Competency in Project Management Skill 207 for practical, enterprise-ready outcomes.",64,0.475
+SKL00208,Sales Skill 208,Sales,Advanced,"Competency in Sales Skill 208 for practical, enterprise-ready outcomes.",75,0.148
+SKL00209,HR Skill 209,HR,Advanced,"Competency in HR Skill 209 for practical, enterprise-ready outcomes.",52,0.659
+SKL00210,Sales Skill 210,Sales,Expert,"Competency in Sales Skill 210 for practical, enterprise-ready outcomes.",93,0.303
+SKL00211,Governance Skill 211,Governance,Advanced,"Competency in Governance Skill 211 for practical, enterprise-ready outcomes.",88,0.63
+SKL00212,HR Skill 212,HR,Intermediate,"Competency in HR Skill 212 for practical, enterprise-ready outcomes.",89,0.752
+SKL00213,Cybersecurity Skill 213,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 213 for practical, enterprise-ready outcomes.",68,0.26
+SKL00214,Governance Skill 214,Governance,Beginner,"Competency in Governance Skill 214 for practical, enterprise-ready outcomes.",51,0.966
+SKL00215,HR Skill 215,HR,Beginner,"Competency in HR Skill 215 for practical, enterprise-ready outcomes.",64,0.137
+SKL00216,Digital Marketing Skill 216,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 216 for practical, enterprise-ready outcomes.",48,0.245
+SKL00217,Quality Management Skill 217,Quality Management,Advanced,"Competency in Quality Management Skill 217 for practical, enterprise-ready outcomes.",40,0.398
+SKL00218,HR Skill 218,HR,Intermediate,"Competency in HR Skill 218 for practical, enterprise-ready outcomes.",42,0.238
+SKL00219,Full Stack Skill 219,Full Stack,Beginner,"Competency in Full Stack Skill 219 for practical, enterprise-ready outcomes.",89,0.939
+SKL00220,Manufacturing Skill 220,Manufacturing,Advanced,"Competency in Manufacturing Skill 220 for practical, enterprise-ready outcomes.",71,0.811
+SKL00221,Healthcare Skill 221,Healthcare,Advanced,"Competency in Healthcare Skill 221 for practical, enterprise-ready outcomes.",44,0.806
+SKL00222,Full Stack Skill 222,Full Stack,Intermediate,"Competency in Full Stack Skill 222 for practical, enterprise-ready outcomes.",51,0.569
+SKL00223,Sales Skill 223,Sales,Intermediate,"Competency in Sales Skill 223 for practical, enterprise-ready outcomes.",66,0.589
+SKL00224,Leadership Skill 224,Leadership,Beginner,"Competency in Leadership Skill 224 for practical, enterprise-ready outcomes.",62,0.299
+SKL00225,Cybersecurity Skill 225,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 225 for practical, enterprise-ready outcomes.",61,0.425
+SKL00226,Cybersecurity Skill 226,Cybersecurity,Expert,"Competency in Cybersecurity Skill 226 for practical, enterprise-ready outcomes.",75,0.841
+SKL00227,Governance Skill 227,Governance,Beginner,"Competency in Governance Skill 227 for practical, enterprise-ready outcomes.",47,0.702
+SKL00228,Finance Skill 228,Finance,Intermediate,"Competency in Finance Skill 228 for practical, enterprise-ready outcomes.",97,0.678
+SKL00229,Project Management Skill 229,Project Management,Intermediate,"Competency in Project Management Skill 229 for practical, enterprise-ready outcomes.",42,0.714
+SKL00230,Full Stack Skill 230,Full Stack,Expert,"Competency in Full Stack Skill 230 for practical, enterprise-ready outcomes.",98,0.817
+SKL00231,Data Science Skill 231,Data Science,Expert,"Competency in Data Science Skill 231 for practical, enterprise-ready outcomes.",56,0.586
+SKL00232,Digital Marketing Skill 232,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 232 for practical, enterprise-ready outcomes.",98,0.565
+SKL00233,Sales Skill 233,Sales,Advanced,"Competency in Sales Skill 233 for practical, enterprise-ready outcomes.",72,0.823
+SKL00234,Finance Skill 234,Finance,Expert,"Competency in Finance Skill 234 for practical, enterprise-ready outcomes.",42,0.367
+SKL00235,Governance Skill 235,Governance,Intermediate,"Competency in Governance Skill 235 for practical, enterprise-ready outcomes.",60,0.563
+SKL00236,Data Science Skill 236,Data Science,Intermediate,"Competency in Data Science Skill 236 for practical, enterprise-ready outcomes.",89,0.584
+SKL00237,AI Skill 237,AI,Beginner,"Competency in AI Skill 237 for practical, enterprise-ready outcomes.",53,0.703
+SKL00238,Sales Skill 238,Sales,Intermediate,"Competency in Sales Skill 238 for practical, enterprise-ready outcomes.",95,0.717
+SKL00239,Quality Management Skill 239,Quality Management,Beginner,"Competency in Quality Management Skill 239 for practical, enterprise-ready outcomes.",53,0.584
+SKL00240,HR Skill 240,HR,Expert,"Competency in HR Skill 240 for practical, enterprise-ready outcomes.",81,0.835
+SKL00241,Data Science Skill 241,Data Science,Intermediate,"Competency in Data Science Skill 241 for practical, enterprise-ready outcomes.",41,0.513
+SKL00242,Full Stack Skill 242,Full Stack,Beginner,"Competency in Full Stack Skill 242 for practical, enterprise-ready outcomes.",45,0.166
+SKL00243,Cloud Skill 243,Cloud,Advanced,"Competency in Cloud Skill 243 for practical, enterprise-ready outcomes.",75,0.163
+SKL00244,Quality Management Skill 244,Quality Management,Intermediate,"Competency in Quality Management Skill 244 for practical, enterprise-ready outcomes.",98,0.333
+SKL00245,Leadership Skill 245,Leadership,Expert,"Competency in Leadership Skill 245 for practical, enterprise-ready outcomes.",80,0.464
+SKL00246,Full Stack Skill 246,Full Stack,Beginner,"Competency in Full Stack Skill 246 for practical, enterprise-ready outcomes.",64,0.706
+SKL00247,Healthcare Skill 247,Healthcare,Beginner,"Competency in Healthcare Skill 247 for practical, enterprise-ready outcomes.",81,0.748
+SKL00248,Data Science Skill 248,Data Science,Beginner,"Competency in Data Science Skill 248 for practical, enterprise-ready outcomes.",84,0.863
+SKL00249,Full Stack Skill 249,Full Stack,Beginner,"Competency in Full Stack Skill 249 for practical, enterprise-ready outcomes.",58,0.808
+SKL00250,Digital Marketing Skill 250,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 250 for practical, enterprise-ready outcomes.",58,0.789
+SKL00251,Finance Skill 251,Finance,Expert,"Competency in Finance Skill 251 for practical, enterprise-ready outcomes.",65,0.84
+SKL00252,AI Skill 252,AI,Expert,"Competency in AI Skill 252 for practical, enterprise-ready outcomes.",50,0.58
+SKL00253,Cloud Skill 253,Cloud,Expert,"Competency in Cloud Skill 253 for practical, enterprise-ready outcomes.",90,0.818
+SKL00254,Healthcare Skill 254,Healthcare,Advanced,"Competency in Healthcare Skill 254 for practical, enterprise-ready outcomes.",80,0.23
+SKL00255,Governance Skill 255,Governance,Advanced,"Competency in Governance Skill 255 for practical, enterprise-ready outcomes.",100,0.11
+SKL00256,Quality Management Skill 256,Quality Management,Intermediate,"Competency in Quality Management Skill 256 for practical, enterprise-ready outcomes.",47,0.138
+SKL00257,Manufacturing Skill 257,Manufacturing,Expert,"Competency in Manufacturing Skill 257 for practical, enterprise-ready outcomes.",74,0.593
+SKL00258,Data Science Skill 258,Data Science,Advanced,"Competency in Data Science Skill 258 for practical, enterprise-ready outcomes.",53,0.773
+SKL00259,Project Management Skill 259,Project Management,Advanced,"Competency in Project Management Skill 259 for practical, enterprise-ready outcomes.",53,0.471
+SKL00260,Governance Skill 260,Governance,Intermediate,"Competency in Governance Skill 260 for practical, enterprise-ready outcomes.",50,0.266
+SKL00261,Manufacturing Skill 261,Manufacturing,Advanced,"Competency in Manufacturing Skill 261 for practical, enterprise-ready outcomes.",52,0.203
+SKL00262,Governance Skill 262,Governance,Beginner,"Competency in Governance Skill 262 for practical, enterprise-ready outcomes.",94,0.776
+SKL00263,Healthcare Skill 263,Healthcare,Expert,"Competency in Healthcare Skill 263 for practical, enterprise-ready outcomes.",81,0.595
+SKL00264,Digital Marketing Skill 264,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 264 for practical, enterprise-ready outcomes.",56,0.188
+SKL00265,HR Skill 265,HR,Expert,"Competency in HR Skill 265 for practical, enterprise-ready outcomes.",100,0.398
+SKL00266,Cloud Skill 266,Cloud,Intermediate,"Competency in Cloud Skill 266 for practical, enterprise-ready outcomes.",46,0.357
+SKL00267,Data Science Skill 267,Data Science,Intermediate,"Competency in Data Science Skill 267 for practical, enterprise-ready outcomes.",60,0.537
+SKL00268,Full Stack Skill 268,Full Stack,Advanced,"Competency in Full Stack Skill 268 for practical, enterprise-ready outcomes.",84,0.626
+SKL00269,Manufacturing Skill 269,Manufacturing,Advanced,"Competency in Manufacturing Skill 269 for practical, enterprise-ready outcomes.",91,0.385
+SKL00270,Leadership Skill 270,Leadership,Intermediate,"Competency in Leadership Skill 270 for practical, enterprise-ready outcomes.",40,0.382
+SKL00271,Sales Skill 271,Sales,Intermediate,"Competency in Sales Skill 271 for practical, enterprise-ready outcomes.",85,0.766
+SKL00272,Leadership Skill 272,Leadership,Advanced,"Competency in Leadership Skill 272 for practical, enterprise-ready outcomes.",93,0.424
+SKL00273,Governance Skill 273,Governance,Advanced,"Competency in Governance Skill 273 for practical, enterprise-ready outcomes.",96,0.532
+SKL00274,Finance Skill 274,Finance,Advanced,"Competency in Finance Skill 274 for practical, enterprise-ready outcomes.",89,0.375
+SKL00275,Healthcare Skill 275,Healthcare,Beginner,"Competency in Healthcare Skill 275 for practical, enterprise-ready outcomes.",51,0.681
+SKL00276,Data Science Skill 276,Data Science,Advanced,"Competency in Data Science Skill 276 for practical, enterprise-ready outcomes.",94,0.844
+SKL00277,Project Management Skill 277,Project Management,Intermediate,"Competency in Project Management Skill 277 for practical, enterprise-ready outcomes.",56,0.76
+SKL00278,Governance Skill 278,Governance,Beginner,"Competency in Governance Skill 278 for practical, enterprise-ready outcomes.",86,0.168
+SKL00279,AI Skill 279,AI,Beginner,"Competency in AI Skill 279 for practical, enterprise-ready outcomes.",92,0.624
+SKL00280,Leadership Skill 280,Leadership,Intermediate,"Competency in Leadership Skill 280 for practical, enterprise-ready outcomes.",98,0.133
+SKL00281,Digital Marketing Skill 281,Digital Marketing,Expert,"Competency in Digital Marketing Skill 281 for practical, enterprise-ready outcomes.",81,0.798
+SKL00282,Full Stack Skill 282,Full Stack,Expert,"Competency in Full Stack Skill 282 for practical, enterprise-ready outcomes.",54,0.902
+SKL00283,Manufacturing Skill 283,Manufacturing,Advanced,"Competency in Manufacturing Skill 283 for practical, enterprise-ready outcomes.",48,0.518
+SKL00284,Healthcare Skill 284,Healthcare,Beginner,"Competency in Healthcare Skill 284 for practical, enterprise-ready outcomes.",65,0.427
+SKL00285,AI Skill 285,AI,Intermediate,"Competency in AI Skill 285 for practical, enterprise-ready outcomes.",94,0.968
+SKL00286,Manufacturing Skill 286,Manufacturing,Intermediate,"Competency in Manufacturing Skill 286 for practical, enterprise-ready outcomes.",88,0.563
+SKL00287,Finance Skill 287,Finance,Intermediate,"Competency in Finance Skill 287 for practical, enterprise-ready outcomes.",51,0.61
+SKL00288,Manufacturing Skill 288,Manufacturing,Intermediate,"Competency in Manufacturing Skill 288 for practical, enterprise-ready outcomes.",87,0.759
+SKL00289,Full Stack Skill 289,Full Stack,Beginner,"Competency in Full Stack Skill 289 for practical, enterprise-ready outcomes.",54,0.785
+SKL00290,Cybersecurity Skill 290,Cybersecurity,Beginner,"Competency in Cybersecurity Skill 290 for practical, enterprise-ready outcomes.",56,0.432
+SKL00291,AI Skill 291,AI,Intermediate,"Competency in AI Skill 291 for practical, enterprise-ready outcomes.",73,0.917
+SKL00292,Full Stack Skill 292,Full Stack,Expert,"Competency in Full Stack Skill 292 for practical, enterprise-ready outcomes.",70,0.926
+SKL00293,Project Management Skill 293,Project Management,Beginner,"Competency in Project Management Skill 293 for practical, enterprise-ready outcomes.",42,0.983
+SKL00294,Full Stack Skill 294,Full Stack,Beginner,"Competency in Full Stack Skill 294 for practical, enterprise-ready outcomes.",85,0.972
+SKL00295,Governance Skill 295,Governance,Advanced,"Competency in Governance Skill 295 for practical, enterprise-ready outcomes.",93,0.768
+SKL00296,Manufacturing Skill 296,Manufacturing,Intermediate,"Competency in Manufacturing Skill 296 for practical, enterprise-ready outcomes.",64,0.688
+SKL00297,Full Stack Skill 297,Full Stack,Beginner,"Competency in Full Stack Skill 297 for practical, enterprise-ready outcomes.",73,0.326
+SKL00298,Project Management Skill 298,Project Management,Intermediate,"Competency in Project Management Skill 298 for practical, enterprise-ready outcomes.",73,0.465
+SKL00299,Quality Management Skill 299,Quality Management,Advanced,"Competency in Quality Management Skill 299 for practical, enterprise-ready outcomes.",71,0.813
+SKL00300,Project Management Skill 300,Project Management,Beginner,"Competency in Project Management Skill 300 for practical, enterprise-ready outcomes.",72,0.894
+SKL00301,Finance Skill 301,Finance,Intermediate,"Competency in Finance Skill 301 for practical, enterprise-ready outcomes.",54,0.169
+SKL00302,Governance Skill 302,Governance,Advanced,"Competency in Governance Skill 302 for practical, enterprise-ready outcomes.",53,0.235
+SKL00303,Cloud Skill 303,Cloud,Advanced,"Competency in Cloud Skill 303 for practical, enterprise-ready outcomes.",78,0.746
+SKL00304,Data Science Skill 304,Data Science,Intermediate,"Competency in Data Science Skill 304 for practical, enterprise-ready outcomes.",66,0.83
+SKL00305,HR Skill 305,HR,Beginner,"Competency in HR Skill 305 for practical, enterprise-ready outcomes.",70,0.708
+SKL00306,Finance Skill 306,Finance,Intermediate,"Competency in Finance Skill 306 for practical, enterprise-ready outcomes.",77,0.245
+SKL00307,Quality Management Skill 307,Quality Management,Expert,"Competency in Quality Management Skill 307 for practical, enterprise-ready outcomes.",41,0.319
+SKL00308,Cloud Skill 308,Cloud,Intermediate,"Competency in Cloud Skill 308 for practical, enterprise-ready outcomes.",48,0.667
+SKL00309,AI Skill 309,AI,Intermediate,"Competency in AI Skill 309 for practical, enterprise-ready outcomes.",43,0.25
+SKL00310,Project Management Skill 310,Project Management,Intermediate,"Competency in Project Management Skill 310 for practical, enterprise-ready outcomes.",73,0.962
+SKL00311,Manufacturing Skill 311,Manufacturing,Beginner,"Competency in Manufacturing Skill 311 for practical, enterprise-ready outcomes.",96,0.748
+SKL00312,Governance Skill 312,Governance,Advanced,"Competency in Governance Skill 312 for practical, enterprise-ready outcomes.",100,0.177
+SKL00313,Finance Skill 313,Finance,Expert,"Competency in Finance Skill 313 for practical, enterprise-ready outcomes.",95,0.534
+SKL00314,Cybersecurity Skill 314,Cybersecurity,Expert,"Competency in Cybersecurity Skill 314 for practical, enterprise-ready outcomes.",78,0.228
+SKL00315,Manufacturing Skill 315,Manufacturing,Intermediate,"Competency in Manufacturing Skill 315 for practical, enterprise-ready outcomes.",79,0.694
+SKL00316,Digital Marketing Skill 316,Digital Marketing,Intermediate,"Competency in Digital Marketing Skill 316 for practical, enterprise-ready outcomes.",86,0.717
+SKL00317,Project Management Skill 317,Project Management,Expert,"Competency in Project Management Skill 317 for practical, enterprise-ready outcomes.",78,0.632
+SKL00318,Cybersecurity Skill 318,Cybersecurity,Expert,"Competency in Cybersecurity Skill 318 for practical, enterprise-ready outcomes.",64,0.219
+SKL00319,AI Skill 319,AI,Intermediate,"Competency in AI Skill 319 for practical, enterprise-ready outcomes.",73,0.874
+SKL00320,Healthcare Skill 320,Healthcare,Expert,"Competency in Healthcare Skill 320 for practical, enterprise-ready outcomes.",92,0.235
+SKL00321,Data Science Skill 321,Data Science,Intermediate,"Competency in Data Science Skill 321 for practical, enterprise-ready outcomes.",70,0.911
+SKL00322,Manufacturing Skill 322,Manufacturing,Beginner,"Competency in Manufacturing Skill 322 for practical, enterprise-ready outcomes.",96,0.805
+SKL00323,Healthcare Skill 323,Healthcare,Beginner,"Competency in Healthcare Skill 323 for practical, enterprise-ready outcomes.",45,0.534
+SKL00324,Cloud Skill 324,Cloud,Beginner,"Competency in Cloud Skill 324 for practical, enterprise-ready outcomes.",97,0.944
+SKL00325,Governance Skill 325,Governance,Expert,"Competency in Governance Skill 325 for practical, enterprise-ready outcomes.",73,0.479
+SKL00326,Quality Management Skill 326,Quality Management,Beginner,"Competency in Quality Management Skill 326 for practical, enterprise-ready outcomes.",84,0.577
+SKL00327,Cybersecurity Skill 327,Cybersecurity,Expert,"Competency in Cybersecurity Skill 327 for practical, enterprise-ready outcomes.",90,0.792
+SKL00328,Full Stack Skill 328,Full Stack,Beginner,"Competency in Full Stack Skill 328 for practical, enterprise-ready outcomes.",67,0.22
+SKL00329,Finance Skill 329,Finance,Intermediate,"Competency in Finance Skill 329 for practical, enterprise-ready outcomes.",98,0.873
+SKL00330,Digital Marketing Skill 330,Digital Marketing,Expert,"Competency in Digital Marketing Skill 330 for practical, enterprise-ready outcomes.",56,0.27
+SKL00331,HR Skill 331,HR,Beginner,"Competency in HR Skill 331 for practical, enterprise-ready outcomes.",76,0.57
+SKL00332,Healthcare Skill 332,Healthcare,Beginner,"Competency in Healthcare Skill 332 for practical, enterprise-ready outcomes.",64,0.689
+SKL00333,HR Skill 333,HR,Advanced,"Competency in HR Skill 333 for practical, enterprise-ready outcomes.",66,0.426
+SKL00334,Cloud Skill 334,Cloud,Expert,"Competency in Cloud Skill 334 for practical, enterprise-ready outcomes.",81,0.627
+SKL00335,Digital Marketing Skill 335,Digital Marketing,Expert,"Competency in Digital Marketing Skill 335 for practical, enterprise-ready outcomes.",76,0.429
+SKL00336,Digital Marketing Skill 336,Digital Marketing,Expert,"Competency in Digital Marketing Skill 336 for practical, enterprise-ready outcomes.",88,0.283
+SKL00337,Healthcare Skill 337,Healthcare,Expert,"Competency in Healthcare Skill 337 for practical, enterprise-ready outcomes.",51,0.433
+SKL00338,Healthcare Skill 338,Healthcare,Expert,"Competency in Healthcare Skill 338 for practical, enterprise-ready outcomes.",56,0.99
+SKL00339,Manufacturing Skill 339,Manufacturing,Advanced,"Competency in Manufacturing Skill 339 for practical, enterprise-ready outcomes.",89,0.735
+SKL00340,HR Skill 340,HR,Intermediate,"Competency in HR Skill 340 for practical, enterprise-ready outcomes.",94,0.877
+SKL00341,Data Science Skill 341,Data Science,Intermediate,"Competency in Data Science Skill 341 for practical, enterprise-ready outcomes.",68,0.805
+SKL00342,Cloud Skill 342,Cloud,Beginner,"Competency in Cloud Skill 342 for practical, enterprise-ready outcomes.",53,0.558
+SKL00343,Sales Skill 343,Sales,Advanced,"Competency in Sales Skill 343 for practical, enterprise-ready outcomes.",91,0.596
+SKL00344,HR Skill 344,HR,Beginner,"Competency in HR Skill 344 for practical, enterprise-ready outcomes.",50,0.45
+SKL00345,Governance Skill 345,Governance,Beginner,"Competency in Governance Skill 345 for practical, enterprise-ready outcomes.",91,0.182
+SKL00346,Cloud Skill 346,Cloud,Expert,"Competency in Cloud Skill 346 for practical, enterprise-ready outcomes.",99,0.64
+SKL00347,Data Science Skill 347,Data Science,Beginner,"Competency in Data Science Skill 347 for practical, enterprise-ready outcomes.",56,0.3
+SKL00348,Data Science Skill 348,Data Science,Beginner,"Competency in Data Science Skill 348 for practical, enterprise-ready outcomes.",86,0.446
+SKL00349,Leadership Skill 349,Leadership,Advanced,"Competency in Leadership Skill 349 for practical, enterprise-ready outcomes.",85,0.967
+SKL00350,AI Skill 350,AI,Intermediate,"Competency in AI Skill 350 for practical, enterprise-ready outcomes.",80,0.545
+SKL00351,AI Skill 351,AI,Intermediate,"Competency in AI Skill 351 for practical, enterprise-ready outcomes.",94,0.691
+SKL00352,Sales Skill 352,Sales,Advanced,"Competency in Sales Skill 352 for practical, enterprise-ready outcomes.",52,0.13
+SKL00353,Manufacturing Skill 353,Manufacturing,Intermediate,"Competency in Manufacturing Skill 353 for practical, enterprise-ready outcomes.",79,0.253
+SKL00354,AI Skill 354,AI,Advanced,"Competency in AI Skill 354 for practical, enterprise-ready outcomes.",55,0.69
+SKL00355,Cloud Skill 355,Cloud,Beginner,"Competency in Cloud Skill 355 for practical, enterprise-ready outcomes.",57,0.802
+SKL00356,Full Stack Skill 356,Full Stack,Expert,"Competency in Full Stack Skill 356 for practical, enterprise-ready outcomes.",65,0.627
+SKL00357,Healthcare Skill 357,Healthcare,Beginner,"Competency in Healthcare Skill 357 for practical, enterprise-ready outcomes.",87,0.733
+SKL00358,Project Management Skill 358,Project Management,Beginner,"Competency in Project Management Skill 358 for practical, enterprise-ready outcomes.",75,0.356
+SKL00359,Quality Management Skill 359,Quality Management,Advanced,"Competency in Quality Management Skill 359 for practical, enterprise-ready outcomes.",62,0.967
+SKL00360,Digital Marketing Skill 360,Digital Marketing,Intermediate,"Competency in Digital Marketing Skill 360 for practical, enterprise-ready outcomes.",78,0.967
+SKL00361,Finance Skill 361,Finance,Expert,"Competency in Finance Skill 361 for practical, enterprise-ready outcomes.",76,0.104
+SKL00362,Cloud Skill 362,Cloud,Expert,"Competency in Cloud Skill 362 for practical, enterprise-ready outcomes.",72,0.196
+SKL00363,Data Science Skill 363,Data Science,Advanced,"Competency in Data Science Skill 363 for practical, enterprise-ready outcomes.",61,0.952
+SKL00364,Sales Skill 364,Sales,Advanced,"Competency in Sales Skill 364 for practical, enterprise-ready outcomes.",96,0.584
+SKL00365,Sales Skill 365,Sales,Advanced,"Competency in Sales Skill 365 for practical, enterprise-ready outcomes.",84,0.498
+SKL00366,Leadership Skill 366,Leadership,Expert,"Competency in Leadership Skill 366 for practical, enterprise-ready outcomes.",89,0.319
+SKL00367,Full Stack Skill 367,Full Stack,Expert,"Competency in Full Stack Skill 367 for practical, enterprise-ready outcomes.",83,0.515
+SKL00368,Manufacturing Skill 368,Manufacturing,Beginner,"Competency in Manufacturing Skill 368 for practical, enterprise-ready outcomes.",70,0.205
+SKL00369,Data Science Skill 369,Data Science,Expert,"Competency in Data Science Skill 369 for practical, enterprise-ready outcomes.",80,0.81
+SKL00370,Cybersecurity Skill 370,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 370 for practical, enterprise-ready outcomes.",91,0.384
+SKL00371,Full Stack Skill 371,Full Stack,Beginner,"Competency in Full Stack Skill 371 for practical, enterprise-ready outcomes.",84,0.849
+SKL00372,Cybersecurity Skill 372,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 372 for practical, enterprise-ready outcomes.",45,0.459
+SKL00373,HR Skill 373,HR,Advanced,"Competency in HR Skill 373 for practical, enterprise-ready outcomes.",44,0.599
+SKL00374,Cloud Skill 374,Cloud,Expert,"Competency in Cloud Skill 374 for practical, enterprise-ready outcomes.",60,0.418
+SKL00375,Project Management Skill 375,Project Management,Advanced,"Competency in Project Management Skill 375 for practical, enterprise-ready outcomes.",51,0.952
+SKL00376,Governance Skill 376,Governance,Intermediate,"Competency in Governance Skill 376 for practical, enterprise-ready outcomes.",71,0.763
+SKL00377,Cybersecurity Skill 377,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 377 for practical, enterprise-ready outcomes.",95,0.339
+SKL00378,Cybersecurity Skill 378,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 378 for practical, enterprise-ready outcomes.",93,0.325
+SKL00379,Manufacturing Skill 379,Manufacturing,Advanced,"Competency in Manufacturing Skill 379 for practical, enterprise-ready outcomes.",49,0.801
+SKL00380,Data Science Skill 380,Data Science,Beginner,"Competency in Data Science Skill 380 for practical, enterprise-ready outcomes.",83,0.96
+SKL00381,Finance Skill 381,Finance,Beginner,"Competency in Finance Skill 381 for practical, enterprise-ready outcomes.",88,0.871
+SKL00382,AI Skill 382,AI,Expert,"Competency in AI Skill 382 for practical, enterprise-ready outcomes.",63,0.659
+SKL00383,Finance Skill 383,Finance,Advanced,"Competency in Finance Skill 383 for practical, enterprise-ready outcomes.",71,0.265
+SKL00384,Sales Skill 384,Sales,Advanced,"Competency in Sales Skill 384 for practical, enterprise-ready outcomes.",65,0.3
+SKL00385,Manufacturing Skill 385,Manufacturing,Intermediate,"Competency in Manufacturing Skill 385 for practical, enterprise-ready outcomes.",43,0.573
+SKL00386,Leadership Skill 386,Leadership,Expert,"Competency in Leadership Skill 386 for practical, enterprise-ready outcomes.",100,0.587
+SKL00387,Healthcare Skill 387,Healthcare,Advanced,"Competency in Healthcare Skill 387 for practical, enterprise-ready outcomes.",65,0.874
+SKL00388,Sales Skill 388,Sales,Intermediate,"Competency in Sales Skill 388 for practical, enterprise-ready outcomes.",69,0.979
+SKL00389,HR Skill 389,HR,Expert,"Competency in HR Skill 389 for practical, enterprise-ready outcomes.",60,0.72
+SKL00390,AI Skill 390,AI,Intermediate,"Competency in AI Skill 390 for practical, enterprise-ready outcomes.",64,0.623
+SKL00391,Full Stack Skill 391,Full Stack,Advanced,"Competency in Full Stack Skill 391 for practical, enterprise-ready outcomes.",79,0.876
+SKL00392,Cloud Skill 392,Cloud,Advanced,"Competency in Cloud Skill 392 for practical, enterprise-ready outcomes.",55,0.342
+SKL00393,Manufacturing Skill 393,Manufacturing,Advanced,"Competency in Manufacturing Skill 393 for practical, enterprise-ready outcomes.",63,0.266
+SKL00394,Leadership Skill 394,Leadership,Intermediate,"Competency in Leadership Skill 394 for practical, enterprise-ready outcomes.",66,0.731
+SKL00395,Full Stack Skill 395,Full Stack,Advanced,"Competency in Full Stack Skill 395 for practical, enterprise-ready outcomes.",94,0.461
+SKL00396,Finance Skill 396,Finance,Intermediate,"Competency in Finance Skill 396 for practical, enterprise-ready outcomes.",76,0.218
+SKL00397,Manufacturing Skill 397,Manufacturing,Intermediate,"Competency in Manufacturing Skill 397 for practical, enterprise-ready outcomes.",92,0.19
+SKL00398,Digital Marketing Skill 398,Digital Marketing,Intermediate,"Competency in Digital Marketing Skill 398 for practical, enterprise-ready outcomes.",75,0.489
+SKL00399,Leadership Skill 399,Leadership,Intermediate,"Competency in Leadership Skill 399 for practical, enterprise-ready outcomes.",49,0.82
+SKL00400,HR Skill 400,HR,Intermediate,"Competency in HR Skill 400 for practical, enterprise-ready outcomes.",70,0.825
+SKL00401,Cloud Skill 401,Cloud,Expert,"Competency in Cloud Skill 401 for practical, enterprise-ready outcomes.",71,0.221
+SKL00402,Project Management Skill 402,Project Management,Advanced,"Competency in Project Management Skill 402 for practical, enterprise-ready outcomes.",90,0.538
+SKL00403,Digital Marketing Skill 403,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 403 for practical, enterprise-ready outcomes.",65,0.189
+SKL00404,Cloud Skill 404,Cloud,Beginner,"Competency in Cloud Skill 404 for practical, enterprise-ready outcomes.",53,0.832
+SKL00405,Finance Skill 405,Finance,Beginner,"Competency in Finance Skill 405 for practical, enterprise-ready outcomes.",68,0.77
+SKL00406,Digital Marketing Skill 406,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 406 for practical, enterprise-ready outcomes.",63,0.604
+SKL00407,Project Management Skill 407,Project Management,Advanced,"Competency in Project Management Skill 407 for practical, enterprise-ready outcomes.",62,0.118
+SKL00408,Data Science Skill 408,Data Science,Advanced,"Competency in Data Science Skill 408 for practical, enterprise-ready outcomes.",95,0.712
+SKL00409,Manufacturing Skill 409,Manufacturing,Intermediate,"Competency in Manufacturing Skill 409 for practical, enterprise-ready outcomes.",76,0.618
+SKL00410,Governance Skill 410,Governance,Intermediate,"Competency in Governance Skill 410 for practical, enterprise-ready outcomes.",89,0.356
+SKL00411,Full Stack Skill 411,Full Stack,Expert,"Competency in Full Stack Skill 411 for practical, enterprise-ready outcomes.",89,0.763
+SKL00412,Project Management Skill 412,Project Management,Beginner,"Competency in Project Management Skill 412 for practical, enterprise-ready outcomes.",64,0.652
+SKL00413,Finance Skill 413,Finance,Intermediate,"Competency in Finance Skill 413 for practical, enterprise-ready outcomes.",95,0.251
+SKL00414,Sales Skill 414,Sales,Advanced,"Competency in Sales Skill 414 for practical, enterprise-ready outcomes.",66,0.668
+SKL00415,Manufacturing Skill 415,Manufacturing,Expert,"Competency in Manufacturing Skill 415 for practical, enterprise-ready outcomes.",94,0.916
+SKL00416,Data Science Skill 416,Data Science,Intermediate,"Competency in Data Science Skill 416 for practical, enterprise-ready outcomes.",61,0.305
+SKL00417,Full Stack Skill 417,Full Stack,Advanced,"Competency in Full Stack Skill 417 for practical, enterprise-ready outcomes.",85,0.341
+SKL00418,Governance Skill 418,Governance,Expert,"Competency in Governance Skill 418 for practical, enterprise-ready outcomes.",57,0.899
+SKL00419,Sales Skill 419,Sales,Advanced,"Competency in Sales Skill 419 for practical, enterprise-ready outcomes.",87,0.628
+SKL00420,Finance Skill 420,Finance,Expert,"Competency in Finance Skill 420 for practical, enterprise-ready outcomes.",50,0.265
+SKL00421,AI Skill 421,AI,Intermediate,"Competency in AI Skill 421 for practical, enterprise-ready outcomes.",86,0.311
+SKL00422,Digital Marketing Skill 422,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 422 for practical, enterprise-ready outcomes.",53,0.25
+SKL00423,Data Science Skill 423,Data Science,Beginner,"Competency in Data Science Skill 423 for practical, enterprise-ready outcomes.",44,0.943
+SKL00424,Finance Skill 424,Finance,Beginner,"Competency in Finance Skill 424 for practical, enterprise-ready outcomes.",41,0.794
+SKL00425,Healthcare Skill 425,Healthcare,Beginner,"Competency in Healthcare Skill 425 for practical, enterprise-ready outcomes.",46,0.336
+SKL00426,Cloud Skill 426,Cloud,Beginner,"Competency in Cloud Skill 426 for practical, enterprise-ready outcomes.",81,0.938
+SKL00427,Leadership Skill 427,Leadership,Advanced,"Competency in Leadership Skill 427 for practical, enterprise-ready outcomes.",54,0.323
+SKL00428,Digital Marketing Skill 428,Digital Marketing,Expert,"Competency in Digital Marketing Skill 428 for practical, enterprise-ready outcomes.",80,0.214
+SKL00429,Healthcare Skill 429,Healthcare,Intermediate,"Competency in Healthcare Skill 429 for practical, enterprise-ready outcomes.",41,0.132
+SKL00430,Full Stack Skill 430,Full Stack,Advanced,"Competency in Full Stack Skill 430 for practical, enterprise-ready outcomes.",95,0.529
+SKL00431,Quality Management Skill 431,Quality Management,Advanced,"Competency in Quality Management Skill 431 for practical, enterprise-ready outcomes.",75,0.5
+SKL00432,HR Skill 432,HR,Intermediate,"Competency in HR Skill 432 for practical, enterprise-ready outcomes.",77,0.638
+SKL00433,Governance Skill 433,Governance,Expert,"Competency in Governance Skill 433 for practical, enterprise-ready outcomes.",73,0.676
+SKL00434,Healthcare Skill 434,Healthcare,Advanced,"Competency in Healthcare Skill 434 for practical, enterprise-ready outcomes.",98,0.412
+SKL00435,Healthcare Skill 435,Healthcare,Intermediate,"Competency in Healthcare Skill 435 for practical, enterprise-ready outcomes.",91,0.181
+SKL00436,Digital Marketing Skill 436,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 436 for practical, enterprise-ready outcomes.",66,0.334
+SKL00437,Digital Marketing Skill 437,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 437 for practical, enterprise-ready outcomes.",40,0.571
+SKL00438,Sales Skill 438,Sales,Intermediate,"Competency in Sales Skill 438 for practical, enterprise-ready outcomes.",62,0.358
+SKL00439,Healthcare Skill 439,Healthcare,Beginner,"Competency in Healthcare Skill 439 for practical, enterprise-ready outcomes.",84,0.93
+SKL00440,Sales Skill 440,Sales,Expert,"Competency in Sales Skill 440 for practical, enterprise-ready outcomes.",59,0.108
+SKL00441,Leadership Skill 441,Leadership,Advanced,"Competency in Leadership Skill 441 for practical, enterprise-ready outcomes.",78,0.308
+SKL00442,AI Skill 442,AI,Advanced,"Competency in AI Skill 442 for practical, enterprise-ready outcomes.",52,0.471
+SKL00443,Healthcare Skill 443,Healthcare,Expert,"Competency in Healthcare Skill 443 for practical, enterprise-ready outcomes.",65,0.325
+SKL00444,HR Skill 444,HR,Expert,"Competency in HR Skill 444 for practical, enterprise-ready outcomes.",93,0.441
+SKL00445,Digital Marketing Skill 445,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 445 for practical, enterprise-ready outcomes.",67,0.663
+SKL00446,Healthcare Skill 446,Healthcare,Advanced,"Competency in Healthcare Skill 446 for practical, enterprise-ready outcomes.",58,0.684
+SKL00447,Healthcare Skill 447,Healthcare,Advanced,"Competency in Healthcare Skill 447 for practical, enterprise-ready outcomes.",66,0.269
+SKL00448,Data Science Skill 448,Data Science,Intermediate,"Competency in Data Science Skill 448 for practical, enterprise-ready outcomes.",48,0.361
+SKL00449,Governance Skill 449,Governance,Expert,"Competency in Governance Skill 449 for practical, enterprise-ready outcomes.",79,0.507
+SKL00450,HR Skill 450,HR,Expert,"Competency in HR Skill 450 for practical, enterprise-ready outcomes.",52,0.389
+SKL00451,Cloud Skill 451,Cloud,Beginner,"Competency in Cloud Skill 451 for practical, enterprise-ready outcomes.",74,0.12
+SKL00452,Data Science Skill 452,Data Science,Advanced,"Competency in Data Science Skill 452 for practical, enterprise-ready outcomes.",57,0.213
+SKL00453,Finance Skill 453,Finance,Beginner,"Competency in Finance Skill 453 for practical, enterprise-ready outcomes.",54,0.181
+SKL00454,AI Skill 454,AI,Expert,"Competency in AI Skill 454 for practical, enterprise-ready outcomes.",53,0.408
+SKL00455,Digital Marketing Skill 455,Digital Marketing,Expert,"Competency in Digital Marketing Skill 455 for practical, enterprise-ready outcomes.",63,0.517
+SKL00456,Sales Skill 456,Sales,Beginner,"Competency in Sales Skill 456 for practical, enterprise-ready outcomes.",61,0.172
+SKL00457,Sales Skill 457,Sales,Intermediate,"Competency in Sales Skill 457 for practical, enterprise-ready outcomes.",43,0.34
+SKL00458,Leadership Skill 458,Leadership,Beginner,"Competency in Leadership Skill 458 for practical, enterprise-ready outcomes.",74,0.523
+SKL00459,Cybersecurity Skill 459,Cybersecurity,Advanced,"Competency in Cybersecurity Skill 459 for practical, enterprise-ready outcomes.",92,0.443
+SKL00460,AI Skill 460,AI,Beginner,"Competency in AI Skill 460 for practical, enterprise-ready outcomes.",89,0.743
+SKL00461,Leadership Skill 461,Leadership,Expert,"Competency in Leadership Skill 461 for practical, enterprise-ready outcomes.",55,0.764
+SKL00462,AI Skill 462,AI,Intermediate,"Competency in AI Skill 462 for practical, enterprise-ready outcomes.",69,0.762
+SKL00463,Data Science Skill 463,Data Science,Intermediate,"Competency in Data Science Skill 463 for practical, enterprise-ready outcomes.",70,0.45
+SKL00464,Digital Marketing Skill 464,Digital Marketing,Advanced,"Competency in Digital Marketing Skill 464 for practical, enterprise-ready outcomes.",50,0.666
+SKL00465,AI Skill 465,AI,Beginner,"Competency in AI Skill 465 for practical, enterprise-ready outcomes.",56,0.533
+SKL00466,Digital Marketing Skill 466,Digital Marketing,Intermediate,"Competency in Digital Marketing Skill 466 for practical, enterprise-ready outcomes.",63,0.899
+SKL00467,Quality Management Skill 467,Quality Management,Intermediate,"Competency in Quality Management Skill 467 for practical, enterprise-ready outcomes.",47,0.312
+SKL00468,Leadership Skill 468,Leadership,Advanced,"Competency in Leadership Skill 468 for practical, enterprise-ready outcomes.",40,0.251
+SKL00469,Digital Marketing Skill 469,Digital Marketing,Beginner,"Competency in Digital Marketing Skill 469 for practical, enterprise-ready outcomes.",65,0.81
+SKL00470,AI Skill 470,AI,Beginner,"Competency in AI Skill 470 for practical, enterprise-ready outcomes.",77,0.805
+SKL00471,Finance Skill 471,Finance,Intermediate,"Competency in Finance Skill 471 for practical, enterprise-ready outcomes.",63,0.794
+SKL00472,Cybersecurity Skill 472,Cybersecurity,Intermediate,"Competency in Cybersecurity Skill 472 for practical, enterprise-ready outcomes.",71,0.182
+SKL00473,Manufacturing Skill 473,Manufacturing,Advanced,"Competency in Manufacturing Skill 473 for practical, enterprise-ready outcomes.",99,0.973
+SKL00474,Sales Skill 474,Sales,Beginner,"Competency in Sales Skill 474 for practical, enterprise-ready outcomes.",43,0.42
+SKL00475,Cloud Skill 475,Cloud,Beginner,"Competency in Cloud Skill 475 for practical, enterprise-ready outcomes.",48,0.539
+SKL00476,Full Stack Skill 476,Full Stack,Advanced,"Competency in Full Stack Skill 476 for practical, enterprise-ready outcomes.",91,0.903
+SKL00477,HR Skill 477,HR,Intermediate,"Competency in HR Skill 477 for practical, enterprise-ready outcomes.",41,0.72
+SKL00478,Full Stack Skill 478,Full Stack,Intermediate,"Competency in Full Stack Skill 478 for practical, enterprise-ready outcomes.",56,0.909
+SKL00479,Finance Skill 479,Finance,Expert,"Competency in Finance Skill 479 for practical, enterprise-ready outcomes.",75,0.365
+SKL00480,HR Skill 480,HR,Expert,"Competency in HR Skill 480 for practical, enterprise-ready outcomes.",52,0.61
+SKL00481,Healthcare Skill 481,Healthcare,Advanced,"Competency in Healthcare Skill 481 for practical, enterprise-ready outcomes.",60,0.759
+SKL00482,Digital Marketing Skill 482,Digital Marketing,Intermediate,"Competency in Digital Marketing Skill 482 for practical, enterprise-ready outcomes.",44,0.578
+SKL00483,Finance Skill 483,Finance,Advanced,"Competency in Finance Skill 483 for practical, enterprise-ready outcomes.",92,0.337
+SKL00484,Full Stack Skill 484,Full Stack,Expert,"Competency in Full Stack Skill 484 for practical, enterprise-ready outcomes.",40,0.798
+SKL00485,Healthcare Skill 485,Healthcare,Expert,"Competency in Healthcare Skill 485 for practical, enterprise-ready outcomes.",86,0.267
+SKL00486,AI Skill 486,AI,Advanced,"Competency in AI Skill 486 for practical, enterprise-ready outcomes.",89,0.658
+SKL00487,Full Stack Skill 487,Full Stack,Beginner,"Competency in Full Stack Skill 487 for practical, enterprise-ready outcomes.",82,0.97
+SKL00488,Quality Management Skill 488,Quality Management,Expert,"Competency in Quality Management Skill 488 for practical, enterprise-ready outcomes.",52,0.572
+SKL00489,Finance Skill 489,Finance,Intermediate,"Competency in Finance Skill 489 for practical, enterprise-ready outcomes.",79,0.355
+SKL00490,Leadership Skill 490,Leadership,Advanced,"Competency in Leadership Skill 490 for practical, enterprise-ready outcomes.",47,0.187
+SKL00491,Governance Skill 491,Governance,Beginner,"Competency in Governance Skill 491 for practical, enterprise-ready outcomes.",42,0.852
+SKL00492,Cloud Skill 492,Cloud,Intermediate,"Competency in Cloud Skill 492 for practical, enterprise-ready outcomes.",95,0.128
+SKL00493,Data Science Skill 493,Data Science,Expert,"Competency in Data Science Skill 493 for practical, enterprise-ready outcomes.",52,0.189
+SKL00494,Manufacturing Skill 494,Manufacturing,Expert,"Competency in Manufacturing Skill 494 for practical, enterprise-ready outcomes.",82,0.541
+SKL00495,Manufacturing Skill 495,Manufacturing,Advanced,"Competency in Manufacturing Skill 495 for practical, enterprise-ready outcomes.",43,0.43
+SKL00496,Manufacturing Skill 496,Manufacturing,Beginner,"Competency in Manufacturing Skill 496 for practical, enterprise-ready outcomes.",40,0.937
+SKL00497,Cybersecurity Skill 497,Cybersecurity,Expert,"Competency in Cybersecurity Skill 497 for practical, enterprise-ready outcomes.",99,0.901
+SKL00498,Data Science Skill 498,Data Science,Expert,"Competency in Data Science Skill 498 for practical, enterprise-ready outcomes.",91,0.675
+SKL00499,Full Stack Skill 499,Full Stack,Expert,"Competency in Full Stack Skill 499 for practical, enterprise-ready outcomes.",92,0.432
+SKL00500,HR Skill 500,HR,Beginner,"Competency in HR Skill 500 for practical, enterprise-ready outcomes.",92,0.655
